@@ -41,3 +41,5 @@ The simulation output matches the expected truth table.
 ## Simulation
 
 Behavioral simulation was performed in Vivado 2024.1.
+![Half Adder Simulation](half_adder_waveform.png)
+
