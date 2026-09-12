@@ -38,7 +38,7 @@ The circuit is implemented using continuous assignments:
 
 The testbench checks all four possible combinations of inputs:
 
-00 01, 10, 11
+00, 01, 10, 11
 
 The simulation output matches the expected truth table.
 
